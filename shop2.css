@@ -1,0 +1,26 @@
+*{
+  font-family: 'Noto Serif', serif;
+}
+body{
+  background-color: #ffffff;
+}
+h1 {
+  font-family: 'Oswald', sans-serif;
+  color:#52616d;
+  background-color: #e5e1d1;
+  border-radius: 5px;
+  border: 1px solid black;
+  box-shadow: 3px 3px 10px #2c343b;
+  opacity:0.75;
+}
+.copy{
+  background-color: #e5e1d1;
+  color: #2c343b;
+  border-radius: 5px;
+  border:1px solid black;
+  box-shadow: inset 0 0 15px #2c343b;
+  padding: 5px;
+  margin: 10px;
+}
+
+
