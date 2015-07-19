@@ -24,7 +24,7 @@ body{
   margin-top: 20px;
 }
 h1 {
-  position:relative;
+  position:absolute;
   width: 300px;
   text-align: center;
   margin:10px auto 15px auto;
@@ -41,7 +41,7 @@ h2 {
   clear:both;
   width: 400px;
   text-align: center;
-  margin: 35px auto 20px auto;
+  margin: 85px auto 20px auto;
   font-family: 'Oswald', sans-serif;
   color:#52616d;
   background-color: #e5e1d1;
