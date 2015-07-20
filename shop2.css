@@ -76,6 +76,21 @@ h2 {
   margin: 10px;
   margin-top: 150px;
 }
+.image.grow:hover{
+  width:100px;
+  height:100px;
+  background-color: #ffffff;
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.grow:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+  transition:all 0.3s ease;
+}
+
 
 
 
